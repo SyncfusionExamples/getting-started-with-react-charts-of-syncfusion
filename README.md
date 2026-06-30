@@ -1,6 +1,6 @@
 # Getting Started with React Charts of Syncfusion
 
-A quick-start project that allows you to create [React Chart](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-charts-github-samples) component of Syncfusion using the "create-react-app" command. This project also contains a code snippet to add a title, legend, data label, and tooltip to the chart.
+A quick-start project that allows you to create [React Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-charts-github-samples) component of Syncfusion using the "create-react-app" command. This project also contains a code snippet to add a title, legend, data label, and tooltip to the chart.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/chart/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-charts-github-samples
 
